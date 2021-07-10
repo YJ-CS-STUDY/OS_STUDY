@@ -30,7 +30,7 @@
 | 박형태 | - | [🔗](https://github.com/dohwaseo)
 | 신웅철 | - | [🔗](https://github.com/woongcheol)
 | 고은채 | - | [🔗](https://github.com/kec0130)
-| 이상훈 | Wannabe AI enginner | [🔗](https://github.com/ithingv)
+| 이상훈 | Wannabe AI engineer | [🔗](https://github.com/ithingv)
 | 사공용협 | - | [🔗](https://github.com/gjustin40)
 | 김상호 | - | [🔗](https://github.com/sangho5o5)
 | 원재성 | - | [🔗](https://github.com/Woodywarhol9)
