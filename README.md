@@ -1,4 +1,4 @@
-# CS_STUDY
+# OS_STUDY
 
 #  🦕 운영체제 스터디 
 <p align="center">
