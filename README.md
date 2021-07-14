@@ -31,7 +31,7 @@
 | 신웅철 | - | [🔗](https://github.com/woongcheol)
 | 고은채 | - | [🔗](https://github.com/kec0130)
 | [이상훈](https://github.com/YJ-CS-STUDY/OS_STUDY/tree/main/sanghoon) | Wannabe AI engineer | [🔗](https://github.com/ithingv)
-| 사공용협 | - | [🔗](https://github.com/gjustin40)
+| [사공용협](https://github.com/gjustin40) | - | [🔗](https://github.com/gjustin40)
 | 김상호 | - | [🔗](https://github.com/sangho5o5)
 | 원재성 | - | [🔗](https://github.com/Woodywarhol9)
 | 정현재 | - | [🔗](https://github.com/ithingv)
