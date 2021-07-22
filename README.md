@@ -2,7 +2,7 @@
 
 #  🦕 운영체제 스터디 
 <p align="center">
-    <img src="./images/img.PNG" height="400px" width="300px">
+    <img src="./static/images/img.PNG" height="400px" width="300px">
     <br>교재 : Opearting System Concepts 10th</br>    
 </p>
 
