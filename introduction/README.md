@@ -1,6 +1,6 @@
 #  Introduction
 
-## ✔ Documents
+##  Documents
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## ✔ Summary
+##  Summary
 
 
 1. 운영체제는 컴퓨터 하드웨어를 관리하는 소프트웨어이고 어플리케이션 프로그램이 실행될 수 있도록 환경을 제공한다.
@@ -61,7 +61,7 @@
 --------------------------------------
 <br>
 
-## ✔ Questions
+##  Questions
 
 
 <br>
