@@ -1,6 +1,6 @@
-# Operating System Structures
+#  Operating System Structures
 
-## Documents
+## ✔ Documents
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## Summary
+## ✔ Summary
 
 
 
@@ -18,7 +18,7 @@
 --------------------------------------
 <br>
 
-## Questions
+## ✔ Questions
 
 
 <br>
