@@ -7,7 +7,7 @@
 | 작성자 | 내용 | 주소 |
 |:----:|:-----:|:-----:|
 | 김상호 | Process Introduction| [Link]()|
-| 황동호 | Pipe | [[Link](https://www.notion.so/PIPE-b6b78f740ab74cec9abddd483107e5be)|
+| 황동호 | Pipe | [Link](https://www.notion.so/PIPE-b6b78f740ab74cec9abddd483107e5be)|
 | 신웅철 | Communication in Client-Server Systems | [Link](https://www.notion.so/Communication-in-Client-Server-Systems-9f3b087c434d4a9e98aa2c4dd8325d89)|
 <br>
 
