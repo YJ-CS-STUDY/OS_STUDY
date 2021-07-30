@@ -6,7 +6,7 @@
 
 | 작성자 | 내용 | 주소 |
 |:----:|:-----:|:-----:|
-| 이상훈 | OT | [Link](../introduction/pdf/운영체제%20스터디%20PPT%20(1).pdf)|
+| 이상훈 | OT | [Link](../introduction/pdf/PPT.pdf)|
 
 <br>
 
