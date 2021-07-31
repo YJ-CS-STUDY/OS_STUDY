@@ -6,7 +6,7 @@
 
 | 발표자 | 내용 | 주소 |
 |:----:|:-----:|:-----:|
-| 이상훈 | OT | [Link](../introduction/pdf/PPT.pdf)|
+| 이상훈 | OT | [Link](../1.%20introduction/docs/PPT.pdf)|
 | 김경민 | Overview of Computer System Structure (1) | [Link]()|
 | 박형태 | Overview of Computer System Structure (2)| [Link]()|
 | 고은채 | Computer System Architecture| [Link]()|
