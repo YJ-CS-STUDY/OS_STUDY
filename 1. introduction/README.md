@@ -4,14 +4,19 @@
 
 <br>
 
-| 작성자 | 내용 | 주소 |
+| 발표자 | 내용 | 주소 |
 |:----:|:-----:|:-----:|
 | 이상훈 | OT | [Link](../introduction/pdf/PPT.pdf)|
+| 김경민 | Overview of Computer System Structure (1) | [Link]()|
+| 박형태 | Overview of Computer System Structure (2)| [Link]()|
+| 고은채 | Computer System Architecture| [Link]()|
+
 
 <br>
 
 ##  Summary
 
+##### 작성자: 이상훈
 
 1. 운영체제는 컴퓨터 하드웨어를 관리하는 소프트웨어이고 어플리케이션 프로그램이 실행될 수 있도록 환경을 제공한다.
 

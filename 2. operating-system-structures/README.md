@@ -4,9 +4,10 @@
 
 <br>
 
-| 작성자 | 내용 | 주소 |
+| 발표자 | 내용 | 주소 |
 |:----:|:-----:|:-----:|
-|  || [Link]()|
+| 황동호 | System Calls | [Link]()|
+| 신웅철 | Operating-System Structure| [Link]()|
 
 <br>
 

@@ -4,15 +4,23 @@
 
 <br>
 
-| 작성자 | 내용 | 주소 |
+| 발표자 | 내용 | 주소 |
 |:----:|:-----:|:-----:|
 | 김상호 | Process Introduction| [Link]()|
-| 이상훈 | fork system call code | [Link](./docs/fork%20실습.pdf)|
-| 황동호 | Pipe | [Link](https://www.notion.so/PIPE-b6b78f740ab74cec9abddd483107e5be)|
-| 신웅철 | Communication in Client-Server Systems | [Link](https://www.notion.so/Communication-in-Client-Server-Systems-9f3b087c434d4a9e98aa2c4dd8325d89)|
+| 정현재 | Context Switching| [Link]()|
+| 이상훈 | Fork System Call | [Link](./docs/fork%20실습.pdf)|
+| 사공용협 | Producer Consumer Problem | [Link]()|
+| 원재성 | Shared Memory | [Link]()|
+| 박형태 | Message Passing | [Link]()|
+| 김경민 | Blocking / Non-Blocking | [Link]()|
+| 황동호 | Pipes | [Link](https://www.notion.so/PIPE-b6b78f740ab74cec9abddd483107e5be)|
+| 신웅철 | Sockets | [Link](https://www.notion.so/Communication-in-Client-Server-Systems-9f3b087c434d4a9e98aa2c4dd8325d89)|
 <br>
 
 ##  Summary
+
+##### 작성자: 황동호
+
 1. 프로세스는 실행 중인 프로그램이며 프로세스의 현재 활동 상태는 프로그램 카운터와 다른 레지스터로 나타난다.
    
 2. 메모리에서 프로세스의 레이아웃은 [텍스트, 데이터, 힙, 스택] 네가지 섹션으로 표시된다.
