@@ -4,11 +4,11 @@
 
 | 발표자 | 내용 | 주소 |
 |:----:|:-----:|:-----:|
-|정현재| overview | [Link]()|
-|김상호| thread library | [Link]()|
-|원재성| multicore programming | [Link]()|
-|사공용협 | multithreading models | [Link]()|
-|이상훈 | implicit threading | [Link]()|
+|정현재| Overview | [Link]()|
+|김상호| Thread Library | [Link]()|
+|원재성| Multicore Programming | [Link]()|
+|사공용협 | Multithreading Models | [Link]()|
+|이상훈 | Implicit Threading | [Link]()|
 
 <br>
 
