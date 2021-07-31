@@ -68,5 +68,5 @@
 
 |Question|Answer|
 |--------------|--------------|
-|1. I/O에서  CPU에 시그널을 보냈을 때 CPU가 인터럽트를 어떻게 처리하는가?| [Link]()|
-|2. printf()와 write()는 무슨 차이일까? | [Link]()|
+|1. I/O에서  CPU에 시그널을 보냈을 때 CPU가 인터럽트를 어떻게 처리하는가?| [Link](https://www.notion.so/1-I-O-CPU-CPU-5a62550c5bb64ef4ba077ecf2fa11d3e)|
+|2. printf()와 write()는 무슨 차이일까? | [Link](https://linuxhint.com/use-write-system-call-c/)|
