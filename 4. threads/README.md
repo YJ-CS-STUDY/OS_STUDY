@@ -8,7 +8,7 @@
 |김상호| Thread Library | [Link]()|
 |원재성| Multicore Programming | [Link]()|
 |사공용협 | Multithreading Models | [Link]()|
-|이상훈 | Implicit Threading | [Link]()|
+|이상훈 | Implicit Threading | [Link](https://thoracic-scene-632.notion.site/Implicit-Threading-847bba298e3c471cac4ebab960c2fedc)|
 
 <br>
 

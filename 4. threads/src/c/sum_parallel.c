@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
 	for (i=0; i < SIZE; i++)
 		a[i] = b[i] = i;
 
-	#pragma mp parallel for
+	#pragma omp parallel for
 	for (i = 0; i < SIZE; i++) {
 		c[i] = a[i] + b[i];
 	}
