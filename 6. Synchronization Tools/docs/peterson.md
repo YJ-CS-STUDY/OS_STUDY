@@ -35,3 +35,6 @@ Non-preemptive kernels로 구현하면 임계 영역 문제가 발생하지 않�
 ### Busy Waiting
 
 CPU 스케쥴링에 의해, 각 프로세스가 running 된다. 이 때, 임계 영역에 들어가기 위해 기다리고 있는 프로세스는 위 코드에 의해 무한루프를 돌며 임계 영역 직전에 머무르게 되는데, 이 무한 루프에 CPU 자원을 쓰고 있는 것이다. 운영체제의 목표는 CPU를 효율적으로 활용하는 것이므로, 이러한 현상도 문제라고 본다. 이러한 문제를 **Busy waiting** 이라고 한다.
+
+
+### [Peterson solution의 문제점](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=demonic3540&logNo=221527382669)
