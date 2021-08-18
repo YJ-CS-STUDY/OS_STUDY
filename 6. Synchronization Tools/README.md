@@ -8,7 +8,7 @@
 |:----:|:-----:|:-----:|
 | 원재성 | Background | [Link]()|
 | 정현재 | The Critical Section Problem | [Link]()|
-| 이상훈 | Peterson's Solution |[Link](./src/docs/peterson.md)|
+| 이상훈 | Peterson's Solution |[Link](./docs/peterson.md.md)|
 | 김상호 | Hardware Support for Synchronization |[Link]()|
 
 
