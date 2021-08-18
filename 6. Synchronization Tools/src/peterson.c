@@ -6,8 +6,8 @@
 
 int sum = 0;
 
-int turn;
-int flag[2];
+int turn; // critical section에 진입하고자하는 프로세스를 가리키는 변수 
+int flag[2]; // 프로세스가 작업중인지 저장하는 변수
 void *producer(void *param);
 void *consumer(void *param);
 
