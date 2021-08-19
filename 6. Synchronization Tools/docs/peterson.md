@@ -39,3 +39,9 @@ CPU 스케쥴링에 의해, 각 프로세스가 running 된다. 이 때, 임계 
 
 
 ### [Peterson solution의 문제점](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=demonic3540&logNo=221527382669)
+
+다시 확인해보기
+6.7 스택
+Dekker
+Eisenberg and McGuire’s
+memory barriers or fences
