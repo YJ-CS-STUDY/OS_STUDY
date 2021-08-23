@@ -1,3 +1,9 @@
+/*
+ * peterson.c
+ * By: ithingv <ithing43@gmail.com>
+ * Created: 2021/08/23 by ithingv
+ */
+
 #include <stdio.h>
 #include <pthread.h>
 
