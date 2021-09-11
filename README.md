@@ -23,15 +23,15 @@
 
 # 🌐 Member
 
-| 이름 | Github |
-|:----:| :-----------:|
-| 김경민  | [🔗](https://github.com/ithingv)
-| 황동호  | [🔗]()
-| 박형태  | [🔗](https://github.com/dohwaseo)
-| [신웅철](https://github.com/woongcheol)  | [🔗](https://github.com/woongcheol)
-| [고은채](https://github.com/kec0130)  | [🔗](https://github.com/kec0130)
-| [이상훈](https://github.com/YJ-CS-STUDY/OS_STUDY/tree/main/sanghoon)  | [🔗](https://github.com/ithingv)
-| [사공용협](https://github.com/gjustin40)  | [🔗](https://github.com/gjustin40)
-| [김상호](https://github.com/sangho5o5)  | [🔗](https://github.com/sangho5o5)
-| [원재성](https://github.com/Woodywarhol9) | [🔗](https://github.com/Woodywarhol9)
-| 정현재  | [🔗](https://github.com/ithingv)
+| 이름 | 프로필| Github |
+|:----:| :-----------:|:-----:|
+| 김경민 | - | [🔗](https://github.com/ithingv)
+| 황동호 | - | [🔗]()
+| 박형태 | - | [🔗](https://github.com/dohwaseo)
+| [신웅철](https://github.com/woongcheol) | - | [🔗](https://github.com/woongcheol)
+| [고은채](https://github.com/kec0130) | - | [🔗](https://github.com/kec0130)
+| [이상훈](https://github.com/YJ-CS-STUDY/OS_STUDY/tree/main/sanghoon) | Wannabe AI engineer | [🔗](https://github.com/ithingv)
+| [사공용협](https://gjustin40.github.io/category/#ComputerScience) | - | [🔗](https://github.com/gjustin40)
+| [김상호](https://github.com/sangho5o5) | - | [🔗](https://github.com/sangho5o5)
+| [원재성](https://github.com/Woodywarhol9) | - | [🔗](https://github.com/Woodywarhol9)
+| 정현재 | - | [🔗](https://github.com/ithingv)
