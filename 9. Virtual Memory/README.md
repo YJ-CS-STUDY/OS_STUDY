@@ -1,4 +1,4 @@
-#  8. Main Memory
+#  8. Virtual Memory
 
 ##  Documents
 
@@ -6,10 +6,10 @@
 
 | 발표자 | 내용 | 주소 |
 |:----:|:-----:|:-----:|
-| 사공용협 | Contiguous Memory Allocation | [Link]()|
-| 김경민 | Paging(1) | [Link]()|
-| 박형태 | Paging(2) |[Link]()|
-| 신웅철 | Structure of the page table |[Link]()|
+| 이상훈 | Demand Paging(1) | [Link]()|
+| 원재성 | Demand Paing(2) | [Link]()|
+| 정현재 | Page Replacement- LRU |[Link]()|
+| 김상호 | Allocation of Frames|[Link]()|
 
 
 <br>
