@@ -1,26 +1,24 @@
 # Virtual Memory
 
-- 프로세스의 실행을 할 수 있도록 하는 테크닉
-  - 메모리에 완전히 올리지 않아도
-  - 프로그램이 물리적 메모리 용량보다 커도
+##### 프로세스의 실행을 할 수 있도록 하는 테크닉
+  - 메모리에 완전히 올리지 않더라도,
+  - 프로그램이 물리적 메모리 용량보다 크더라도
 
-메모리를 굉장히 큰 저장공간으로 추상화한다.
+##### 메모리를 굉장히 큰 저장공간으로 추상화
   - logical memory와 physical memory를 분리
 
-굉장히 효율적인 매커니즘
+#####  굉장히 효율적인 매커니즘
   - 파일, 라이브러리를 공유하거나 프로세스 생성할때 유용
 
-----
-
-- logical한 무한대의 공간을 가지는 가상메모리
-- 실제로 physical 메모리가 존재하고 그때 그때 필요할 때 마다 맵핑하여 실행
+- Paging 기법을 사용
+- 무한대의 공간을 가지는 logical한 가상메모리
 - 실제 physical 메모리에 로드된 페이지를 제외한 나머지는 backing store(hdd)에 저장하여 메인메모리를 좀 더 효율적으로 사용
 
 ----
 
-Virtual Address Space
+### Virtual Address Space
 - logical한 메모리 구조
-- logical address는 address 0에서 시작해서 max까지
+- logical address는 address 0에서 시작해서 max까지 무한대의 공간을 가짐
 - contiguous한 메모리 사용
   
   >text : code 사이즈만큼 메모리 차지 (low memory)
